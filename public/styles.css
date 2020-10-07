@@ -1,0 +1,28 @@
+
+#Room-box{
+    float:left;
+            width:200px;
+            border-right:1px solid black;
+            height:400px;
+            padding:10px;
+            overflow:scroll-y;
+    
+    margin: 30px auto;
+    border: 1px solid #ddd;
+    box-shadow: 1px 3px 5px rgba(0,0,0,0.05);
+    border-radius: 2px; 
+}
+
+#chat-box{
+    float:left;
+            width:600px;
+            height:400px;
+            overflow:scroll-y;
+            padding:10px;
+            margin: 30px auto;
+            border: 1px solid #ddd;
+            border-radius: 2px;
+    background: #f9f9f9; 
+}
+
+
